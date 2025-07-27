@@ -43,5 +43,14 @@
       "All commits are empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1753603310.07777,
+    "completed_at": 1753603310.968909,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
   }
 ]
